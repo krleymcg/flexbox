@@ -1,0 +1,30 @@
+header {
+    background-color: blueviolet;
+    border: 2px solid black;
+    padding: 90px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main {
+    background-color: rgb(255, 0, 153);
+    border: 2px solid black;
+    padding: 90px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+footer {
+    background-color: rgb(75, 138, 90);
+    border: 2px solid black;
+    padding: 90px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+body {
+    display: inline-block;
+    width: 100%;
+}
